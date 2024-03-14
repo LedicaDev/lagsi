@@ -7,7 +7,7 @@ const Enlaces = () => {
         <div className="link-item">
           <a href="#">
             <div className="link">
-              <img className="icon-service" src="/public/finance.png" alt="" />
+              <img className="icon-service" src="/finance.png" alt="" />
               <span className="link-title">Educación Financiera</span>
             </div>
           </a>
@@ -15,7 +15,7 @@ const Enlaces = () => {
         <div className="link-item">
           <a href="#">
             <div className="link">
-            <img className="icon-service" src="/public/asesorias-empresariales.png" alt="" />
+            <img className="icon-service" src="/asesorias-empresariales.png" alt="" />
               <span className="link-title">Asesoria Empresarial</span>
             </div>
           </a>
@@ -23,7 +23,7 @@ const Enlaces = () => {
         <div className="link-item">
           <a href="#">
             <div className="link">
-            <img className="icon-service" src="/public/ahorro.png" alt="" />
+            <img className="icon-service" src="/ahorro.png" alt="" />
               <span className="link-title">Ahorro Programado</span>
             </div>
           </a>
@@ -31,7 +31,7 @@ const Enlaces = () => {
         <div className="link-item">
           <a href="#">
             <div className="link">
-            <img className="icon-service" src="/public/ahorrar-dinero.png" alt="" />
+            <img className="icon-service" src="/ahorrar-dinero.png" alt="" />
               <span className="link-title">Finanzas a la Luz de la Biblia</span>
             </div>
           </a>
