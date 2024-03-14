@@ -22,6 +22,9 @@
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
+    .home-background {
+        height: 800px;
+    }
     
     .inicio {
         padding-top: 80px;
