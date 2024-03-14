@@ -1,0 +1,48 @@
+.link-content {
+    background: ghostwhite;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.link-item {
+    width: 100%;
+    height: 250px;
+}
+
+.link-item a {
+    text-decoration: none;
+}
+
+.link {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 5px solid #074983;
+    /* background: goldenrod; */
+}
+.icon-service {
+    margin-bottom: 10px;
+    
+    width: 50%;
+    height: 50%;
+}
+
+.link-title {
+    text-align: center;
+    color: #074983;
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+

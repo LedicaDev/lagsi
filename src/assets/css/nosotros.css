@@ -1,0 +1,17 @@
+.nosotros {
+    width: 100%;
+    height: 500px;
+    background: #F5F5F5;
+    padding: 20px;
+}
+
+.nosotros h2 {
+    color: #074983;
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    .nosotros {
+        padding-top: 100px;
+    }
+     }
