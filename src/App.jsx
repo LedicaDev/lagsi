@@ -44,7 +44,7 @@ function App() {
                     <a href="https://www.lagsi.co">
                       <img
                         className="image-logo"
-                        src="../public/logo-lagsi.png"
+                        src="/public/logo-lagsi.png"
                         alt=""
                       />
                     </a>
@@ -98,7 +98,7 @@ function App() {
               <a href="https://www.lagsi.co">
                 <img
                   className="image-logo"
-                  src="../public/logo-lagsi.png"
+                  src="/public/logo-lagsi.png"
                   alt=""
                 />
               </a>
