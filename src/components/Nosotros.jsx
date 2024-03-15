@@ -29,7 +29,7 @@ const Nosotros = () => {
         </p>
         <div className="card-us">
         <div className="card-title">
-                <h2>Mision</h2>
+                <h2>Misión</h2>
               </div>
           <div className="row-us">
             <div className="img-us">
