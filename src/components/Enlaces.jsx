@@ -23,7 +23,7 @@ const Enlaces = () => {
         <div className="link-item">
           <a href="#">
             <div className="link">
-            <img className="icon-service" src="/ahorro.png" alt="" />
+            <img className="icon-service" src="/ahorro.png" alt=""/>
               <span className="link-title">Ahorro Programado</span>
             </div>
           </a>
