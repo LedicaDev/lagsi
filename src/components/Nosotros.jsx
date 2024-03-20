@@ -49,23 +49,15 @@ const Nosotros = () => {
             </div>
             <div className="card-body">
               <p className="card-text">
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex
-                voluptatibus quos rem ducimus ullam sed. Voluptates facilis
-                explicabo dolores quam quibusdam quidem at omnis temporibus,
-                aliquid consequuntur possimus libero laborum ex, nihil natus
-                modi repudiandae ab veniam laudantium eum sed assumenda. Tempore
-                aut molestiae blanditiis. Ratione, libero consequuntur.
-                Doloremque voluptas dolore consectetur aperiam quia, quis quas
-                mollitia omnis blanditiis alias non esse tenetur qui
-                necessitatibus deleniti maxime commodi quidem? Nisi, adipisci
-                aspernatur? Odio iusto illo mollitia officia delectus similique,
-                optio ipsa laudantium, laboriosam qui cumque perferendis numquam
-                repellat doloribus provident repudiandae corporis blanditiis
-                maiores magni atque cum harum nobis! Dignissimos sequi animi,
-                modi laboriosam deserunt, quisquam eum odio soluta dicta
-                eligendi, cupiditate magni tenetur. Ratione amet obcaecati quae
-                reiciendis, id libero ea dolores nostrum est, ad beatae
-                distinctio vero aperiam.
+              En Lagsi, nos guiamos por un conjunto de valores fundamentales que informan cada aspecto de nuestro trabajo y nuestras interacciones con los clientes. <br /><br /> La integridad es el pilar de nuestro compromiso, comprometiéndonos a actuar con honestidad y transparencia en todas nuestras relaciones comerciales. Buscamos la excelencia en todo lo que hacemos, desde el asesoramiento financiero hasta el servicio al cliente, siempre esforzándonos por superar las expectativas y brindar soluciones de la más alta calidad. Creemos en el empoderamiento de nuestros clientes, proporcionándoles el conocimiento y las herramientas necesarias para tomar decisiones financieras sólidas y seguras. Además, estamos comprometidos a servir a nuestros clientes con pasión y dedicación, ofreciendo soluciones personalizadas y atención individualizada. En resumen, nuestros valores de integridad, excelencia, empoderamiento y compromiso son la piedra angular de nuestra misión de ayudar a nuestros clientes a alcanzar su máximo potencial financiero.
+              <br /><br />
+              Integridad: En Lagsi, nos comprometemos a actuar con honestidad y transparencia en todas nuestras relaciones comerciales. <br /><br />
+Excelencia: Buscamos la excelencia en todo lo que hacemos, desde el asesoramiento financiero hasta el servicio al cliente, siempre esforzándonos por superar las expectativas y brindar soluciones de la más alta calidad.<br /><br />
+Empoderamiento: Creemos en el empoderamiento de nuestros clientes, proporcionándoles el conocimiento y las herramientas necesarias para tomar decisiones financieras sólidas y seguras. <br /><br />
+Compromiso: Estamos comprometidos a servir a nuestros clientes con pasión y dedicación, ofreciendo soluciones personalizadas y atención individualizada. <br /><br />
+Lealtad: Valoramos la lealtad hacia nuestros clientes y socios comerciales, manteniendo relaciones basadas en la confianza mutua y el compromiso a largo plazo. <br /><br />
+Transparencia: Nos comprometemos a ser transparentes en nuestras operaciones y comunicaciones, proporcionando a nuestros clientes la información necesaria para tomar decisiones informadas y confiables. <br /><br />
+Estos valores son fundamentales en nuestra misión de ayudar a nuestros clientes a alcanzar su máximo potencial financiero.
               </p>
             </div>
           </div>
