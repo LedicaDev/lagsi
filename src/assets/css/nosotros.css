@@ -11,6 +11,16 @@
     color: #074983;
 }
 
+.viñeta {
+    list-style: none;
+    padding-left: 2rem;
+    background-image: url('/icon-list.png');
+    background-position: 0 0;
+    background-size: 1rem 1rem;
+    background-repeat: no-repeat;
+    
+}
+
 .card-us {
     width: 100%;    
 }
