@@ -43,7 +43,7 @@ const Nosotros = () => {
             </div>
             <div className="card-body">
               <p className="card-text">
-                Desde nuestra fundación en 2007, en Lagsi nos hemos comprometido
+                Desde nuestra fundación, en Lagsi nos hemos comprometido
                 con una misión clara y apasionada: transformar la relación que
                 las personas y los pequeños negocios tienen con el dinero.
                 Creemos firmemente que el dinero no debería ser percibido como

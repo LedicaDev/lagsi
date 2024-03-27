@@ -8,10 +8,26 @@ const Footer = () => {
         <div className="footer-column">
           <span className="footer-col-title">Mapa del sitio</span>
           <ul className="footer-site-map">
-            <li ><a className="footer-links-item" href="#inicio">Inicio</a></li>
-            <li ><a className="footer-links-item" href="#nosotros">Nosotros</a></li>
-            <li ><a className="footer-links-item" href="#servicios">Servicios</a></li>
-            <li ><a className="footer-links-item" href="#contacto">Contácto</a></li>
+            <li>
+              <a className="footer-links-item" href="#inicio">
+                Inicio
+              </a>
+            </li>
+            <li>
+              <a className="footer-links-item" href="#nosotros">
+                Nosotros
+              </a>
+            </li>
+            <li>
+              <a className="footer-links-item" href="#servicios">
+                Servicios
+              </a>
+            </li>
+            <li>
+              <a className="footer-links-item" href="#contacto">
+                Contácto
+              </a>
+            </li>
           </ul>
           <span className="footer-attributs">Atribuciones:</span>
           <ul className="footer-attributs-list">
@@ -35,9 +51,73 @@ const Footer = () => {
         </div>
         <div className="footer-column">
           <span className="footer-col-title">Servicios</span>
+          <ul className="footer-servicios">
+            <li>
+              <a className="footer-links-item" href="#edu-financiera">
+                Educación financiera
+              </a>
+            </li>
+            <li>
+              <a className="footer-links-item" href="#ases-empresarial">
+                Asesoría Empresarial
+              </a>
+            </li>
+            <li>
+              <a className="footer-links-item" href="#ahorro-programado">
+                Ahorro Programado
+              </a>
+            </li>
+            <li>
+              <a
+                className="footer-links-item"
+                href="#finanzas-a-la-luz-de-la-biblia"
+              >
+                Finanzas a la luz de la Biblia
+              </a>
+            </li>
+          </ul>
         </div>
         <div className="footer-column">
           <span className="footer-col-title">Contácto</span>
+          <ul className="footer-servicios">
+            <li>
+              <a className="footer-links-item" href="#edu-financiera"></a>
+              <i className="bx bx-mobile icon-contact mobile"></i>
+              &nbsp;&nbsp;+57 312 836 8582
+            </li>
+            <li>
+              <a className="footer-links-item" href="https://wa.me/3128368582">
+                <i className="bx bxl-whatsapp icon-contact whatsapp"></i>
+                &nbsp;&nbsp;Whatsapp me
+              </a>
+            </li>
+            <li>
+              <a
+                className="footer-links-item"
+                href="mailto:gerentelagsi@gmail.com"
+              >
+                <i className="bx bx-envelope icon-contact email"></i>
+                &nbsp;&nbsp;gerentelagsi@gmail.com
+              </a>
+            </li>
+          </ul>
+          <span className="footer-attributs">
+            Sigueme en mis Redes Sociales:
+          </span>
+          <div className="btn-redes-sociales">
+            <a className="btn-redes-sociales-item facebook" href="https://www.facebook.com" target="_blank">
+              <i className="bx bxl-facebook icon-redes"></i>
+            </a>
+            <a className="btn-redes-sociales-item instagram" href="#" target="_blank">
+              <i className="bx bxl-instagram icon-redes"></i>
+            </a>
+            <a className="btn-redes-sociales-item linkedin" href="#" target="_blank">
+              <i className="bx bxl-linkedin icon-redes"></i>
+            </a>
+            <a className="btn-redes-sociales-item youtube" href="#" target="_blank">
+              <i className="bx bxl-youtube icon-redes"></i>
+            </a>
+          </div>
         </div>
       </div>
       <CopyRight />
