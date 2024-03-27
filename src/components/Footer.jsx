@@ -81,9 +81,10 @@ const Footer = () => {
           <span className="footer-col-title">Contácto</span>
           <ul className="footer-servicios">
             <li>
-              <a className="footer-links-item" href="#edu-financiera"></a>
+              <a className="footer-links-item" href="tel:+573128368582" title="+57 312 836 8582">
               <i className="bx bx-mobile icon-contact mobile"></i>
-              &nbsp;&nbsp;+57 312 836 8582
+              &nbsp;&nbsp;Llamar
+              </a>
             </li>
             <li>
               <a className="footer-links-item" href="https://wa.me/3128368582">
