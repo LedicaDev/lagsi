@@ -101,6 +101,15 @@ const Footer = () => {
                 &nbsp;&nbsp;gerentelagsi@gmail.com
               </a>
             </li>
+            <li>
+              <a
+                className="footer-links-item"
+                href="https://koalendar.com/e/reunion-con-laura-arias"
+              >&nbsp;
+                <i className="fa solid fa-handshake fa-1x"></i>
+                &nbsp;&nbsp;Agendar una reunión
+              </a>
+            </li>
           </ul>
           <span className="footer-attributs">
             Sigueme en mis Redes Sociales:

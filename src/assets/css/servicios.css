@@ -1,8 +1,72 @@
 .servicios {
     width: 100%;
-    height: 500px;
-    background: lightskyblue;
+    padding: 0 20px;
+    
+    
+}
+
+.service-content {
     padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.service-title {
+    height: 80px;
+    background-color: #074983;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.service-title-text {
+    color: ghostwhite;
+    
+}
+
+.card {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid #074983;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.card-image {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.srv-card-body p {
+    margin-top: 10px;
+}
+
+.srv-card-body-title {
+    color: #074983;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.srv-links {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+}
+
+.srv-links a {
+    font-size: .7rem;
+    text-decoration: none;
+    color: #074983;
+}
+
+.srv-links a:hover {
+    color: red;
+    transition: all .3s ease-in-out;
 }
 
 /* Medium devices (tablets, 768px and up) */
