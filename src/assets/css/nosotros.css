@@ -54,7 +54,7 @@
 }
 
 /* Medium devices (tablets, 768px and up) */
-@media (max-width: 768px) {
+@media (min-width: 768px) {
     .nosotros {
         padding-top: 100px;
     }

@@ -1,6 +1,6 @@
 .servicios {
     width: 100%;
-    padding: 0 20px;
+    padding: 0 10px;
     
     
 }
@@ -9,7 +9,7 @@
     padding: 20px;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    grid-gap: 20px;
+    grid-gap: 10px;
     justify-content: center;
     align-items: center;
 }
@@ -48,7 +48,7 @@
 
 .srv-card-body-title {
     color: #074983;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     font-weight: 500;
 }
 

@@ -24,9 +24,9 @@ const Servicios = () => {
                 quos nobis commodi laborum in facilis?
               </p>
               <div className="srv-links">
-                <a href="https://wa.me/3128368582">Whatsapp me</a>
+                <a href="https://wa.me/3128368582" target="_blank">Whatsapp me</a>
                 <a href="#contacto">Contácto</a>
-                <a href="https://koalendar.com/e/reunion-con-laura-arias">
+                <a href="https://koalendar.com/e/reunion-con-laura-arias" target="_blank">
                   Agendar una reunión
                 </a>
               </div>
@@ -43,9 +43,9 @@ const Servicios = () => {
                 quos nobis commodi laborum in facilis?
               </p>
               <div className="srv-links">
-                <a href="https://wa.me/3128368582">Whatsapp me</a>
+                <a href="https://wa.me/3128368582" target="_blank">Whatsapp me</a>
                 <a href="#contacto">Contácto</a>
-                <a href="https://koalendar.com/e/reunion-con-laura-arias">
+                <a href="https://koalendar.com/e/reunion-con-laura-arias" target="_blank">
                   Agendar una reunión
                 </a>
               </div>
@@ -62,9 +62,9 @@ const Servicios = () => {
                 quos nobis commodi laborum in facilis?
               </p>
               <div className="srv-links">
-                <a href="https://wa.me/3128368582">Whatsapp me</a>
+                <a href="https://wa.me/3128368582" target="_blank">Whatsapp me</a>
                 <a href="#contacto">Contácto</a>
-                <a href="https://koalendar.com/e/reunion-con-laura-arias">
+                <a href="https://koalendar.com/e/reunion-con-laura-arias" target="_blank">
                   Agendar una reunión
                 </a>
               </div>
@@ -83,9 +83,9 @@ const Servicios = () => {
                 quos nobis commodi laborum in facilis?
               </p>
               <div className="srv-links">
-                <a href="https://wa.me/3128368582">Whatsapp me</a>
+                <a href="https://wa.me/3128368582" target="_blank">Whatsapp me</a>
                 <a href="#contacto">Contácto</a>
-                <a href="https://koalendar.com/e/reunion-con-laura-arias">
+                <a href="https://koalendar.com/e/reunion-con-laura-arias" target="_blank">
                   Agendar una reunión
                 </a>
               </div>

@@ -112,7 +112,7 @@ const Footer = () => {
             </li>
           </ul>
           <span className="footer-attributs">
-            Sigueme en mis Redes Sociales:
+            Síguenos en nuestras Redes Sociales:
           </span>
           <div className="btn-redes-sociales">
             <a className="btn-redes-sociales-item facebook" href="https://www.facebook.com" target="_blank">
