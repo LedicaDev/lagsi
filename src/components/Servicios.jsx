@@ -18,10 +18,7 @@ const Servicios = () => {
             <div className="srv-card-body">
               <span className="srv-card-body-title">Educación Financiera</span>
               <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit,
-                dignissimos? Error temporibus veniam officia, optio molestiae,
-                adipisci suscipit dolorum itaque officiis odio numquam illum
-                quos nobis commodi laborum in facilis?
+              Te brinda habilidades y estrategias para administrar tus recursos diarios con menos riesgos, permitiéndote construir un futuro más sólido. Aprenderás técnicas y herramientas que te ayudarán a tomar decisiones financieras más informadas y efectivas en tu vida cotidiana.
               </p>
               <div className="srv-links">
                 <a href="https://wa.me/3128368582" target="_blank">Whatsapp me</a>
@@ -37,10 +34,7 @@ const Servicios = () => {
             <div className="srv-card-body">
               <span className="srv-card-body-title">Asesoría Empresarial</span>
               <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit,
-                dignissimos? Error temporibus veniam officia, optio molestiae,
-                adipisci suscipit dolorum itaque officiis odio numquam illum
-                quos nobis commodi laborum in facilis?
+              Mediante asesoría empresarial, las compañías identificarán estrategias financieras eficaces, optimizando recursos para un crecimiento sostenible y preparándose para futuras expansiones con inteligencia y seguridad.
               </p>
               <div className="srv-links">
                 <a href="https://wa.me/3128368582" target="_blank">Whatsapp me</a>
@@ -56,10 +50,7 @@ const Servicios = () => {
             <div className="srv-card-body">
               <span className="srv-card-body-title">Ahorro Programado</span>
               <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit,
-                dignissimos? Error temporibus veniam officia, optio molestiae,
-                adipisci suscipit dolorum itaque officiis odio numquam illum
-                quos nobis commodi laborum in facilis?
+              Descubre cómo el ahorro programado puede transformar tu futuro financiero. Explora una variedad de herramientas rentables y seguras que te permitirán alcanzar tus metas sin depender de créditos. Conoce estrategias efectivas para construir un patrimonio sólido y alcanzar la estabilidad económica deseada.
               </p>
               <div className="srv-links">
                 <a href="https://wa.me/3128368582" target="_blank">Whatsapp me</a>
@@ -77,10 +68,43 @@ const Servicios = () => {
                 Finanzas a la Luz de la Biblia
               </span>
               <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit,
-                dignissimos? Error temporibus veniam officia, optio molestiae,
-                adipisci suscipit dolorum itaque officiis odio numquam illum
-                quos nobis commodi laborum in facilis?
+              Explora el fascinante vínculo entre las finanzas y la espiritualidad a través de nuestro programa ¡Finanzas a la Luz de la Biblia!. A través de talleres interactivos, te guiaremos para que organices tus recursos financieros mientras descubres la conexión profunda entre tus metas monetarias y tus propósitos espirituales.
+              </p>
+              <div className="srv-links">
+                <a href="https://wa.me/3128368582" target="_blank">Whatsapp me</a>
+                <a href="#contacto">Contácto</a>
+                <a href="https://koalendar.com/e/reunion-con-laura-arias" target="_blank">
+                  Agendar una reunión
+                </a>
+              </div>
+            </div>
+          </div>
+          <div className="card">
+            <img src={ImageBible} className="card-image" alt="..." />
+            <div className="srv-card-body">
+              <span className="srv-card-body-title">
+                Finanzas a la Luz de la Biblia
+              </span>
+              <p>
+              Explora el fascinante vínculo entre las finanzas y la espiritualidad a través de nuestro programa ¡Finanzas a la Luz de la Biblia!. A través de talleres interactivos, te guiaremos para que organices tus recursos financieros mientras descubres la conexión profunda entre tus metas monetarias y tus propósitos espirituales.
+              </p>
+              <div className="srv-links">
+                <a href="https://wa.me/3128368582" target="_blank">Whatsapp me</a>
+                <a href="#contacto">Contácto</a>
+                <a href="https://koalendar.com/e/reunion-con-laura-arias" target="_blank">
+                  Agendar una reunión
+                </a>
+              </div>
+            </div>
+          </div>
+          <div className="card">
+            <img src={ImageBible} className="card-image" alt="..." />
+            <div className="srv-card-body">
+              <span className="srv-card-body-title">
+                Finanzas a la Luz de la Biblia
+              </span>
+              <p>
+              Explora el fascinante vínculo entre las finanzas y la espiritualidad a través de nuestro programa ¡Finanzas a la Luz de la Biblia!. A través de talleres interactivos, te guiaremos para que organices tus recursos financieros mientras descubres la conexión profunda entre tus metas monetarias y tus propósitos espirituales.
               </p>
               <div className="srv-links">
                 <a href="https://wa.me/3128368582" target="_blank">Whatsapp me</a>

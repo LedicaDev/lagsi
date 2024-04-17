@@ -29,6 +29,7 @@
 
 .card {
     width: 100%;
+   /*  height: 500px; */
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -44,6 +45,7 @@
 
 .srv-card-body p {
     margin-top: 10px;
+    height: 140px;
 }
 
 .srv-card-body-title {
@@ -55,7 +57,7 @@
 .srv-links {
     display: flex;
     justify-content: space-around;
-    margin-top: 15px;
+    margin-top: 15px;    
 }
 
 .srv-links a {
