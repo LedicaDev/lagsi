@@ -1,4 +1,5 @@
 import "../assets/css/nosotros.css";
+import Equipo from "./Equipo";
 
 const Nosotros = () => {
   return (
@@ -167,6 +168,7 @@ const Nosotros = () => {
             </div>
           </div>
         </div>
+        <Equipo />
       </div>
     </>
   );
