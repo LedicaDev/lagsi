@@ -14,7 +14,7 @@
 
 .teams-content {
     margin: auto;
-    width: 50%;
+    width: 60%;
     padding: 20px;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
