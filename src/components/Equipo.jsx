@@ -12,13 +12,15 @@ const Equipo = () => {
         <div className="teams-content">
           <div className="team-item">
             <img src={ImageTeam1} alt="" />
-            <h2 className="team-name">Laura Arias</h2>
+            <h2 className="team-name">Laura Arias Granada</h2>
             <span>Gerente General</span>
+            <span className="span-2">Administradora de Empresas</span>
           </div>
           <div className="team-item">
             <img src={ImageTeam2} alt="" />
-            <h2 className="team-name">Lauro Arias</h2>
+            <h2 className="team-name">Hernan Ciervo Garzón </h2>
             <span>Asesor Financiero</span>
+            <span className="span-2">Administrador de Empresas</span>
           </div>
         </div>
       </article>

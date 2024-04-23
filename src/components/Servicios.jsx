@@ -3,6 +3,8 @@ import ImageFinance from "../../public/educacion-financiera.jpg";
 import ImageAdvisory from "../../public/asesoria-empresarial.png";
 import ImageSaving from "../../public/ahorro-programado.jpg";
 import ImageBible from "../../public/finanzas-biblia.jpg";
+import ImageVisado from '../../public/american-visa-document.jpg';
+import ImageSeguroEducativo from '../../public/seguro-educativo.jpg';
 
 const Servicios = () => {
   return (
@@ -80,10 +82,10 @@ const Servicios = () => {
             </div>
           </div>
           <div className="card">
-            <img src={ImageBible} className="card-image" alt="..." />
+            <img src={ImageSeguroEducativo} className="card-image" alt="..." />
             <div className="srv-card-body">
               <span className="srv-card-body-title">
-                Finanzas a la Luz de la Biblia
+                Seguro Educativo
               </span>
               <p>
               Explora el fascinante vínculo entre las finanzas y la espiritualidad a través de nuestro programa ¡Finanzas a la Luz de la Biblia!. A través de talleres interactivos, te guiaremos para que organices tus recursos financieros mientras descubres la conexión profunda entre tus metas monetarias y tus propósitos espirituales.
@@ -98,10 +100,10 @@ const Servicios = () => {
             </div>
           </div>
           <div className="card">
-            <img src={ImageBible} className="card-image" alt="..." />
+            <img src={ImageVisado} className="card-image" alt="..." />
             <div className="srv-card-body">
               <span className="srv-card-body-title">
-                Finanzas a la Luz de la Biblia
+                Asesoría legal en Visas
               </span>
               <p>
               Explora el fascinante vínculo entre las finanzas y la espiritualidad a través de nuestro programa ¡Finanzas a la Luz de la Biblia!. A través de talleres interactivos, te guiaremos para que organices tus recursos financieros mientras descubres la conexión profunda entre tus metas monetarias y tus propósitos espirituales.

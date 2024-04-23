@@ -1,5 +1,19 @@
 /* Carousel.css */
 
+.slide-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80px;
+  background: #074983;
+  margin-top: 10px;
+}
+
+.slide-title h2 {
+  color: ghostwhite;
+  font-weight: bold;
+}
+
 .slide-container {
   /* height: 100vh; */
   width: 100vw;
