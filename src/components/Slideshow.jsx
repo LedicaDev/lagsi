@@ -3,9 +3,9 @@ import "../assets/css/slideshow.css";
 const Slideshow = () => {
   return (
     <>
-    <div className="slide-title">
+    {/* <div className="slide-title">
     <h2>Testimónios</h2>
-    </div>
+    </div> */}
       <div className="slide-container">
         <div className="slide">
           <ul>
