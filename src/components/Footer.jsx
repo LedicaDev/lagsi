@@ -25,7 +25,7 @@ const Footer = () => {
             </li>
             <li>
               <a className="footer-links-item" href="#contacto">
-                Contácto
+                Contacto
               </a>
             </li>
           </ul>
@@ -53,24 +53,24 @@ const Footer = () => {
           <span className="footer-col-title">Servicios</span>
           <ul className="footer-servicios">
             <li>
-              <a className="footer-links-item" href="#edu-financiera">
+              <a className="footer-links-item" href="#servicios">
                 Educación financiera
               </a>
             </li>
             <li>
-              <a className="footer-links-item" href="#ases-empresarial">
+              <a className="footer-links-item" href="#servicios">
                 Asesoría Empresarial
               </a>
             </li>
             <li>
-              <a className="footer-links-item" href="#ahorro-programado">
+              <a className="footer-links-item" href="#aservicios">
                 Ahorro Programado
               </a>
             </li>
             <li>
               <a
                 className="footer-links-item"
-                href="#finanzas-a-la-luz-de-la-biblia"
+                href="#servicios"
               >
                 Finanzas a la luz de la Biblia
               </a>
@@ -78,7 +78,7 @@ const Footer = () => {
           </ul>
         </div>
         <div className="footer-column">
-          <span className="footer-col-title">Contácto</span>
+          <span className="footer-col-title">Contacto</span>
           <ul className="footer-servicios">
             <li>
               <a className="footer-links-item" href="tel:+573128368582" title="+57 312 836 8582">
@@ -87,7 +87,7 @@ const Footer = () => {
               </a>
             </li>
             <li>
-              <a className="footer-links-item" href="https://wa.me/3128368582">
+              <a className="footer-links-item" href="https://wa.me/3128368582" target="_blank">
                 <i className="bx bxl-whatsapp icon-contact whatsapp"></i>
                 &nbsp;&nbsp;Whatsapp me
               </a>
@@ -104,7 +104,7 @@ const Footer = () => {
             <li>
               <a
                 className="footer-links-item"
-                href="https://koalendar.com/e/reunion-con-laura-arias"
+                href="https://koalendar.com/e/reunion-con-laura-arias" target="_blank"
               >&nbsp;
                 <i className="fa solid fa-handshake fa-1x"></i>
                 &nbsp;&nbsp;Agendar una reunión
@@ -115,16 +115,16 @@ const Footer = () => {
             Síguenos en nuestras Redes Sociales:
           </span>
           <div className="btn-redes-sociales">
-            <a className="btn-redes-sociales-item facebook" href="https://www.facebook.com" target="_blank">
+            <a className="btn-redes-sociales-item facebook" href="https://web.facebook.com/Lagsicolombia" target="_blank">
               <i className="bx bxl-facebook icon-redes"></i>
             </a>
-            <a className="btn-redes-sociales-item instagram" href="#" target="_blank">
+            <a className="btn-redes-sociales-item instagram" href="https://www.instagram.com/lagsi.ltda.1/" target="_blank">
               <i className="bx bxl-instagram icon-redes"></i>
             </a>
-            <a className="btn-redes-sociales-item linkedin" href="#" target="_blank">
+            <a className="btn-redes-sociales-item linkedin" href="https://www.linkedin.com/company/lagsicolombia/" target="_blank">
               <i className="bx bxl-linkedin icon-redes"></i>
             </a>
-            <a className="btn-redes-sociales-item youtube" href="#" target="_blank">
+            <a className="btn-redes-sociales-item youtube" href="https://www.youtube.com/@lagsolucionesinteligentes9434" target="_blank">
               <i className="bx bxl-youtube icon-redes"></i>
             </a>
           </div>

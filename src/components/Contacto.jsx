@@ -1,5 +1,6 @@
 
 import "../assets/css/contacto.css";
+import Swal from 'sweetalert2'
 
 const Contacto = () => {
   const handleSubmit = async (event) => {
@@ -14,14 +15,25 @@ const Contacto = () => {
         }
       });
       if (response.ok) {
-        alert('Mensaje enviado correctamente');
+        Swal.fire({
+          title: "Muchas Gracias",
+          text: "¡Su mensaje ha sido enviado satisfactoriamente!",
+          icon: "success"
+        });
+        /* alert('Mensaje enviado correctamente'); */
         event.target.reset();
       } else {
         throw new Error('Error al enviar el mensaje');
       }
     } catch (error) {
       console.error('Error:', error);
-      alert('Hubo un error al enviar el mensaje. Por favor, intenta de nuevo más tarde.');
+      Swal.fire({
+        icon: "error",
+        title: "Oops...",
+        text: "¡Hubo un error al enviar el mensaje. Por favor, intenta de nuevo más tarde.!",
+        timer: 3000
+      });
+      /* alert('Hubo un error al enviar el mensaje. Por favor, intenta de nuevo más tarde.'); */
     }
   };
 
@@ -74,7 +86,7 @@ const Contacto = () => {
                   <input
                     className="input-company" name="Telefono"
                     type="tel"pattern="[0-9]{3}[0-9]{3}[0-9]{4}" maxLength={10}
-                    placeholder="Escribe tu número de contácto - Formato: Solo números hasta 10 dígitos" required
+                    placeholder="Escribe tu número de contacto - Formato: Solo números hasta 10 dígitos" required
                   />
                 </label>
                 <label className="tag-company" htmlFor="">

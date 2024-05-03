@@ -77,7 +77,7 @@ function App() {
                       href="#contacto"
                       onClick={toggleMobileMenu}
                     >
-                      Contácto
+                      Contacto
                     </a>
                   </div>
                 </div>
@@ -114,7 +114,7 @@ function App() {
                 Servicios
               </a>
               <a className="nav-item" href="#contacto">
-                Contácto
+                Contacto
               </a>
             </div>
           </div>

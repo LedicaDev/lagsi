@@ -24,7 +24,7 @@ const Servicios = () => {
               </p>
               <div className="srv-links">
                 <a href="https://wa.me/3128368582" target="_blank">Whatsapp me</a>
-                <a href="#contacto">Contácto</a>
+                <a href="#contacto">Contacto</a>
                 <a href="https://koalendar.com/e/reunion-con-laura-arias" target="_blank">
                   Agendar una reunión
                 </a>
@@ -40,7 +40,7 @@ const Servicios = () => {
               </p>
               <div className="srv-links">
                 <a href="https://wa.me/3128368582" target="_blank">Whatsapp me</a>
-                <a href="#contacto">Contácto</a>
+                <a href="#contacto">Contacto</a>
                 <a href="https://koalendar.com/e/reunion-con-laura-arias" target="_blank">
                   Agendar una reunión
                 </a>
@@ -56,7 +56,7 @@ const Servicios = () => {
               </p>
               <div className="srv-links">
                 <a href="https://wa.me/3128368582" target="_blank">Whatsapp me</a>
-                <a href="#contacto">Contácto</a>
+                <a href="#contacto">Contacto</a>
                 <a href="https://koalendar.com/e/reunion-con-laura-arias" target="_blank">
                   Agendar una reunión
                 </a>
@@ -74,7 +74,7 @@ const Servicios = () => {
               </p>
               <div className="srv-links">
                 <a href="https://wa.me/3128368582" target="_blank">Whatsapp me</a>
-                <a href="#contacto">Contácto</a>
+                <a href="#contacto">Contacto</a>
                 <a href="https://koalendar.com/e/reunion-con-laura-arias" target="_blank">
                   Agendar una reunión
                 </a>
@@ -88,11 +88,11 @@ const Servicios = () => {
                 Seguro Educativo
               </span>
               <p>
-              Explora el fascinante vínculo entre las finanzas y la espiritualidad a través de nuestro programa ¡Finanzas a la Luz de la Biblia!. A través de talleres interactivos, te guiaremos para que organices tus recursos financieros mientras descubres la conexión profunda entre tus metas monetarias y tus propósitos espirituales.
+              Los seguros educativos ofrecen una estrategia financiera para asegurar los fondos necesarios destinados a la educación universitaria de los hijos, facilitando la planificación y la tranquilidad económica familiar.
               </p>
               <div className="srv-links">
                 <a href="https://wa.me/3128368582" target="_blank">Whatsapp me</a>
-                <a href="#contacto">Contácto</a>
+                <a href="#contacto">Contacto</a>
                 <a href="https://koalendar.com/e/reunion-con-laura-arias" target="_blank">
                   Agendar una reunión
                 </a>
@@ -103,14 +103,14 @@ const Servicios = () => {
             <img src={ImageVisado} className="card-image" alt="..." />
             <div className="srv-card-body">
               <span className="srv-card-body-title">
-                Asesoría legal en Visas
+                Asesoría legal Visas para EE. UU.
               </span>
               <p>
-              Explora el fascinante vínculo entre las finanzas y la espiritualidad a través de nuestro programa ¡Finanzas a la Luz de la Biblia!. A través de talleres interactivos, te guiaremos para que organices tus recursos financieros mientras descubres la conexión profunda entre tus metas monetarias y tus propósitos espirituales.
+              Nos especializamos en hacer realidad los sueños de nuestros clientes, guiándolos a través del complejo proceso de obtención de visas para Estados Unidos. Con un equipo experto de 12 años de experiencia, brindamos asesoría con empatía, calidez humana y un alto nivel de profesionalismo.
               </p>
               <div className="srv-links">
                 <a href="https://wa.me/3128368582" target="_blank">Whatsapp me</a>
-                <a href="#contacto">Contácto</a>
+                <a href="#contacto">Contacto</a>
                 <a href="https://koalendar.com/e/reunion-con-laura-arias" target="_blank">
                   Agendar una reunión
                 </a>
