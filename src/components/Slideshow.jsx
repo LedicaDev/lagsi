@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import { useEffect } from 'react';
 import "../assets/css/slideshow.css";
 import SlideImage1 from "../../public/Image1.jpg";
 import SlideImage2 from "../../public/Image2.jpg";

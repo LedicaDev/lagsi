@@ -17,6 +17,7 @@
 .slide-container {
 position: relative;
 width: 100vw;
+overflow: hiddens;
 }
 
 .slider {
