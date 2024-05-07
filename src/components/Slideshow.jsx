@@ -1,4 +1,4 @@
-import { useEffect } from 'react';
+import { useEffect } from "react";
 import "../assets/css/slideshow.css";
 import SlideImage1 from "../../public/Image1.jpg";
 import SlideImage2 from "../../public/Image2.jpg";
@@ -17,26 +17,27 @@ const Slideshow = () => {
 
     function next() {
       let sliderSectionFirst = document.querySelectorAll(".slider-section")[0];
-      slider.style.marginLeft = "-200%";
       slider.style.transition = "all 0.5s";
+      slider.style.marginLeft = "-200%";
       setTimeout(function () {
         slider.style.transition = "none";
         slider.insertAdjacentElement("beforeend", sliderSectionFirst);
         slider.style.marginLeft = "-100%";
       }, 500);
     }
-
+    
     function prev() {
       let sliderSections = document.querySelectorAll(".slider-section");
       let sliderSectionLast = sliderSections[sliderSections.length - 1];
-      slider.style.marginLeft = "0";
       slider.style.transition = "all 0.5s";
+      slider.style.marginLeft = "0";
       setTimeout(function () {
         slider.style.transition = "none";
         slider.insertAdjacentElement("afterbegin", sliderSectionLast);
         slider.style.marginLeft = "-100%";
       }, 500);
     }
+    
 
     btnRight.addEventListener("click", next);
     btnLeft.addEventListener("click", prev);
@@ -68,10 +69,10 @@ const Slideshow = () => {
           </div>
         </div>
         <div className="slider__btn slider__btn--left" id="slider__btn--left">
-        <i className="fa-solid fa-caret-left fa-2xl"></i>
+          <i className="fa-solid fa-caret-left fa-2xl"></i>
         </div>
         <div className="slider__btn slider__btn--right" id="slider__btn--right">
-        <i className="fa-solid fa-caret-right fa-2xl"></i>
+          <i className="fa-solid fa-caret-right fa-2xl"></i>
         </div>
       </div>
     </>
