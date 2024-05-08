@@ -57,3 +57,13 @@
     color: #074983;
     font-size: 1rem;
 }
+
+/* Medium devices (tablets, 768px and up) */
+@media (max-width: 395px) {
+    .team-item span {
+        font-size: 1.3rem;
+    }
+    .span-2 {
+        font-size: .7rem;
+    }
+     }
