@@ -21,7 +21,7 @@ const Equipo = () => {
             <img className="image3" src={ImageTeam3} alt="" />
             <h2 className="team-name">Sonia Trujillo Muñoz </h2>
             <span>Gerente Comercial</span>
-            <span className="span-2">Administrador de Empresas</span>
+            <span className="span-2">Esp. Financiera y Patrimonial</span>
           </div>
           <div className="team-item">
             <img src={ImageTeam2} alt="" />

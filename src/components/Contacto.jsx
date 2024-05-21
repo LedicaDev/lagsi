@@ -56,7 +56,7 @@ const Contacto = () => {
                 Escríbenos &nbsp;<i className="bx bx-edit"></i>
               </span>
             </div>
-            <form className="contact-form" action="https://formsubmit.co/gerentelagsi@gmail.com" method="POST" onSubmit={handleSubmit}>
+            <form className="contact-form" action="https://formsubmit.co/gerencia@lagsi.com.co" method="POST" onSubmit={handleSubmit}>
                 <label className="tag-company" htmlFor="">
                   Empresa
                   <input
