@@ -17,7 +17,7 @@ const Nosotros = () => {
               <p className="card-text">
                 En <strong>Lagsi,</strong> nos enorgullece ser promotores en el
                 arte de convertir el manejo del dinero en una habilidad
-                estratégica tanto para individuos como para pequeñas empresas. <br /><br />
+                estratégica tanto para individuos como para Mipymes. <br /><br />
                 Con una trayectoria sólida de 17 años en el sector financiero,
                 hemos dedicado nuestro compromiso y profundo conocimiento para
                 empoderar a nuestros clientes, ayudándoles a alcanzar sus metas
